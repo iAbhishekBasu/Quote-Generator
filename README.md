@@ -1,2 +1,2 @@
 # Quote-Generator
-A simple quote generator using vanilla javascript and twitter API integration .
+A simple quote generator using Vanilla Javascript and Twitter API integration .
