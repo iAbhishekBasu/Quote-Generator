@@ -27,7 +27,7 @@ async function getQuote()
 {
     showLoadingSpinner();
      // We need to use a Proxy URL to make our API call in order to avoid a CORS error
-    const proxyUrl = 'https://obscure-beach-20708.herokuapp.com/'
+    const proxyUrl = 'https://secure-waters-72567.herokuapp.com/'
     const apiUrl = 'http://api.forismatic.com/api/1.0/?method=getQuote&lang=en&format=json';
     try 
     {
